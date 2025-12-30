@@ -1,6 +1,6 @@
 # Backend Gestion Personnes (JAX-RS + JDBC)
 
-Backend RESTful développé en JEE avec JAX-RS (Jersey 1.19.4) et JDBC MySQL.
+Backend RESTful developped with JEE : JAX-RS (Jersey 1.19.4) and JDBC MySQL.
 
 ## Technologies
 - JAX-RS 1.1 (Jersey 1.19.4)
@@ -26,5 +26,5 @@ Backend RESTful développé en JEE avec JAX-RS (Jersey 1.19.4) et JDBC MySQL.
 ## Frontend
 https://github.com/ChaimaAyed20/gestion-personnes-frontend
 
-## Vidéo Démo
+## Video
 [Insère lien YouTube/Vimeo]
