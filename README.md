@@ -23,8 +23,5 @@ Backend RESTful developped with JEE : JAX-RS (Jersey 1.19.4) and JDBC MySQL.
 2. MySQL : CREATE DATABASE gestion_personnes; CREATE TABLE person(id INT AUTO_INCREMENT PRIMARY KEY, nom VARCHAR(100), age INT);
 3. Run on Tomcat 8082
 
-## Frontend
-https://github.com/ChaimaAyed20/gestion-personnes-frontend
-
 ## Video
 [Insère lien YouTube/Vimeo]
